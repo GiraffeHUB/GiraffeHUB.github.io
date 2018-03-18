@@ -14,14 +14,20 @@ h1 {
 text-align: left;
 font-weight: bold;
 }
+h2{
+  color:GREEN;
+  font-family:cursive;
+}
 input{
 padding:40px;
 
 }
 #Randoom{
-transform:translateX(-500px);
+transform:translateX(-470px);
 font-family: sans-serif;
-font-size: 20px;
+font-size: 35px;
+color:black;
+
 }
 .boom{
 font-size:20px;
@@ -44,5 +50,15 @@ padding-right: 30px;
   }
   img {
     border: 20px solid orange;
+  }
+  #Randoom{
+  transform:translateX(-500px);
+  font-family: sans-serif;
+  font-size: 20px;
+  color:black;
+
+  }
+  h2{
+    Color:lightgreen;;
   }
 }
